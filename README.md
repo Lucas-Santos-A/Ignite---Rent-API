@@ -2,15 +2,15 @@
 
 - [Sobre](#-sobre)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Como Baixar o Projeto](#-como-baixar-o-projeto)
+- [Como Baixar o Projeto](#-como-baixar-e-executar-o-projeto)
 - [Documentação](#-documentação)
-- [Como testar as rotas?](#-como-testar-as-rotas?)
+- [Como testar as rotas?](#-como-testar-as-rotas)
 
 ---
 
 ## 📜 Sobre 
 
-O projeto do Rental API está sendo desenvolvido através do curso Ignite da Rocketseat, na trilha de NodeJS. Este projeto é basicamente uma API para fazer a alocação de veículos. Para a arquitetura estão sendo considerados e aplicados os conceitos do **SOLID**.
+O projeto do Rental API está sendo desenvolvido através do curso Ignite da Rocketseat, na trilha de NodeJS. Este projeto é basicamente uma API para fazer a alocação de veículos. Para a arquitetura estão sendo considerados e aplicados os conceitos do **SOLID** e para a documentação foi utilizado o Swagger.
 
 ---
 
